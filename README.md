@@ -1,4 +1,3 @@
-```md
 # UMRT RC Object Avoiding Car
 
 ## Overview
@@ -66,4 +65,3 @@ void forward() {
 
 ## License
 This project is open-source and available under the MIT License.
-```
